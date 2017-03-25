@@ -118,12 +118,12 @@ JavaScriptでのメディアアート表現や
 
 #### テンプレート
 
-* https://github.com/uto-usui/template_1.0.0
+* [template_1.0.0](https://github.com/uto-usui/template_1.0.0)
 
 #### ドキュメント
 
-* https://github.com/uto-usui/template_1.0.0/blob/master/document/HTML_guide.md
-* https://github.com/uto-usui/template_1.0.0/blob/master/document/CSS_styleguide.md
+* [HTML guide](https://github.com/uto-usui/template_1.0.0/blob/master/document/HTML_guide.md)
+* [CSS_styleguide](https://github.com/uto-usui/template_1.0.0/blob/master/document/CSS_styleguide.md)
 
 ## 経歴
 
@@ -221,7 +221,7 @@ JavaScriptのファンタジックなアート表現を研究しています。
 
 ### アカウント
 
-* [blog media](https://webmanab-html.com/)
+* [webmanab-html (blog media)](https://webmanab-html.com/)
 * [pinterest](https://jp.pinterest.com/okiniirinoao/)
 * [instagram](https://www.instagram.com/uto_ao/)
 * [github](https://github.com/uto-usui/template_1.0.0)
