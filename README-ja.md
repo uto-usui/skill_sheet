@@ -12,6 +12,7 @@
 * [その他の経歴](#その他の経歴)
 * [資格](#資格)
 * [コメント](#コメント)
+* [付加情報](#付加情報)
 
 
 ## 概要
@@ -218,18 +219,20 @@ JavaScriptのファンタジックなアート表現を研究しています。
 
 ## 付加情報
 
-### account
+### アカウント
 
 * [blog media](https://webmanab-html.com/)
 * [pinterest](https://jp.pinterest.com/okiniirinoao/)
 * [instagram](https://www.instagram.com/uto_ao/)
 * [github](https://github.com/uto-usui/template_1.0.0)
 
-### fav
+### すきなもの
 
 The Lord of the Rings / shuntaro tanikawa / shigesato itoi / manabu mizuno / hikaru ijyuin / bakery / coffee / americanfootball / hikaru utada / the band apeart
 
+### 座右の銘
 
+「いつでも初心者」
 
 
 
