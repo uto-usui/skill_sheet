@@ -1,6 +1,6 @@
 # skill sheet
 
-Hello World, I am web developer :)
+Hello World, I am web developer :)  
 This is my skillsheet.
 
 
@@ -142,11 +142,11 @@ http://usuiyuko.com/
 
 ## comment
 
-I like selling things, selling doing and selling people and fantasy.
-I always refine my skills to write clients' business nicely.
-You can generate robust and beautiful HTML and CSS as a solid foundation necessary for freely drawing out the charm of something.
-We will enrich it by catching up the specifications of the new web and the trends of the world and rubbing it tightly.
-I am researching fantastic art expression of JavaScript which can produce freshness and immersive feeling.
+I like selling things, selling doing and selling people and fantasy.  
+I always refine my skills to write clients' business nicely.  
+You can generate robust and beautiful HTML and CSS as a solid foundation necessary for freely drawing out the charm of something.  
+We will enrich it by catching up the specifications of the new web and the trends of the world and rubbing it tightly.  
+I am researching fantastic art expression of JavaScript which can produce freshness and immersive feeling.  
 
 And we will not lose to anyone the skills to strive to run these on teams, the encouragement to work, the childish ambition.
 
