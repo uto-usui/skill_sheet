@@ -146,6 +146,7 @@ JavaScriptでのメディアアート表現や
 UIデザイナー兼フロントエンドエンジニア、CBOとして入社。
 主に自社サービスのコンセプト設計やVI作成から制作に関わり、
 開発やマネジメントを行っています。
+海外チームのリソース管理やコーディネートをしています。
 
 * https://grandstar.jp/
 * http://www.senbokuhome.co.jp/lp/gotex/
