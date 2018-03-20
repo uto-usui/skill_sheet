@@ -3,8 +3,17 @@
 こんにちは、ウェブデベロッパーの臼井優斗(うすいゆうと)です。  
 ここに私のスキルシートを記述します。
 
-* [portfolio site](https://uto-usui.com/)
+* [portfolio](https://uto-usui.com/)
 
+## コンタクト
+
+* [weblog](https://webmanab-html.com/)
+* [instagram](https://www.instagram.com/uto_ao/)
+* [twitter](https://twitter.com/uto_ao)
+* [Qiita](https://qiita.com/uto-usui)
+* [note](https://note.mu/okiniirinoao)
+* [pinterest](https://jp.pinterest.com/okiniirinoao/)
+* [github](https://github.com/uto-usui/)
 
 ## 目次
 
@@ -31,7 +40,7 @@
 
 私が得意なことは、  
 HTML5.1に準拠したセマンティックなコーディングと、  
-堅牢なCSS設計、フレンドリーなアニメーション、  
+堅牢なCSS設計、フレンドリーなアニメーション  
 そしてコンポーネント指向なデザイン設計です。
 
 クライアントのストーリーやブランドにフォーカスした、  
@@ -53,13 +62,14 @@ JavaScriptでのメディアアート表現や
 
 ## スキルセット
 
-習熟度が実務レベルのスキルキーワード一覧です。
+習熟度が実務レベルのスキルキーワードの一覧です。
 
 ### Design
 
 * Sketch
 * Photoshop
 * Illustrator
+* XD
 * Animate
 
 ### HTML
@@ -67,7 +77,7 @@ JavaScriptでのメディアアート表現や
 * EJS
 * Pug
 * SEO
-* structured markup
+* semantic markup
 * accessibility
 
 ### CSS
@@ -77,6 +87,7 @@ JavaScriptでのメディアアート表現や
 * Sass
 * SCSS
 * Stylus
+* Responsive (Mobile First)
 * CSS architecture
 * style guide
 * Bootstrap
@@ -86,18 +97,22 @@ JavaScriptでのメディアアート表現や
 ### JavaScript
 
 * ES2017
+* Vanilla.js
 * Babel
-* jQuery
 * Vue.js
+* Nuxt.js
+* React
+* TweenMax
+* jQuery
 * CreateJS
 * processing.js
-* TweenMax
+* WebGL
+* Three.js
 * npm
 * yarn
-* bower
-* node.js
-* gulp.js
 * webpack
+* gulp.js
+* node.js
 
 ### PHP (CMS)
 
@@ -122,17 +137,14 @@ JavaScriptでのメディアアート表現や
 
 ### 主な開発フロー
 
+* Nuxt.js
 * EJS >>> HTML5
 * SCSS >>> CSS(FLOCSS)
 * ES2017(Babel) >>> JavaScript(ESLint)
 * Task Runner : gulp (with Webpack)
 * Software Container : Docker
 
-#### 開発テンプレート
-
-* [template_1.0.0](https://github.com/uto-usui/template_1.0.0)
-
-#### ドキュメント
+#### よく使うコーディング規約
 
 * [HTML guide](https://github.com/uto-usui/template_1.0.0/blob/master/document/HTML_guide.md)
 * [CSS_styleguide](https://github.com/uto-usui/template_1.0.0/blob/master/document/CSS_styleguide.md)
@@ -143,16 +155,20 @@ JavaScriptでのメディアアート表現や
 
 ### grandstar, inc. (2017_)
 
-UIデザイナー兼フロントエンドエンジニア、CBOとして入社。
-主に自社サービスのコンセプト設計やVI作成から制作に関わり、
-開発やマネジメントを行っています。
+UIデザイナー兼フロントエンドエンジニア、CBOとして入社。  
+自社サービスのコンセプト設計やVI制作から関わり、  
+開発やマネジメントを行っています。  
+受託案件のフロントエンドエンジニアリングにも携わりながら、  
 海外チームのリソース管理やコーディネートをしています。
 
 * https://grandstar.jp/
-* http://www.senbokuhome.co.jp/lp/gotex/
+* http://www.bscycle.co.jp/items/family/bikke/
 * http://www.minocraft.co.jp/simulator/mino
+* https://www2.jctv.co.jp/cnnj/
+* https://www.gracecontinental.com/bespoke/2018/
+* http://www.senbokuhome.co.jp/lp/gotex/
 
-### Re:vite, inc. (2015_20717)
+### Re:vite, inc. (2015_20)
 
 フロントエンドのチーフを務め、  
 メンバーの教育やガイドラインの作成に注力しました。  
@@ -178,8 +194,8 @@ CSS設計／HTML構成／コーディング規約の作成などが身につき�
 その方向性に深い理解を得るために、念密なヒアリングを重視しました。
 
 * https://nan-neco.net/
-* http://terminal-mag.com/  
-* https://okiniirinoao.net/  
+* http://terminal-mag.com/
+* https://okiniirinoao.net/
 
 ## コメント
 
@@ -195,7 +211,7 @@ CSS設計／HTML構成／コーディング規約の作成などが身につき�
 いちはやくキャッチアップして擦り合せることで、  
 UI/UXをより豊かなものにします。  
 また、新鮮さと没入感を演出できるような、  
-JavaScriptのファンタジックなアート表現を研究しています。  
+JavaScriptのファンタジックなアート表現を研究しています。
 
 そして、  
 これらをチームで実行するために努力するスキルと、仕事をたのしむ気持ち、  
@@ -238,12 +254,11 @@ JavaScriptのファンタジックなアート表現を研究しています。
 
 ## 付加情報
 
-### アカウント
+### 言語
 
-* [webmanab-html (blog media)](https://webmanab-html.com/)
-* [pinterest](https://jp.pinterest.com/okiniirinoao/)
-* [instagram](https://www.instagram.com/uto_ao/)
-* [github](https://github.com/uto-usui/template_1.0.0)
+* 日本語
+* 英語 (メールやチャット)
+* フランス語 (大学で専攻していた知識程度)
 
 ### すきなもの
 
