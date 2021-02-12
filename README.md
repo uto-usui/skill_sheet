@@ -164,6 +164,7 @@ Nuxt などでの SPA で高速なフロントエンド全般の構築を主体�
 * <https://wired.jp/vol33-mirror-world/>
 * <https://wired.jp/vol32-digital-well-being/>
 * <https://www.vogue.co.jp/anniversary/20th/>
+* <https://www.vogue.co.jp/feature/canada/2019-08-30/>
 * <https://www.gqjapan.jp/moty/2018/>
 * <https://www.gqjapan.jp/special/holidaygift/2020/>
 
