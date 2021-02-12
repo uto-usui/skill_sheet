@@ -37,10 +37,9 @@
 
 入社後、2018年期の MVP を獲得し、その後新設された Quartely Champion の初回に選出されました。2019年の WIRED 復刊に合わせた雑誌連動 WEB 特集のcreative direction と frontend を専任、VOGUE 20th anniversary special site の develop management と frontend 全般を担当しました。2020 年には WIRED.jp のリニューアルの develop management と frontend 全般を担当しました。
 
-助け合い、教え合い、尊敬し合うチーム作りが好きで、影響と共感を与え合える仕事仲間に、いつも感謝しています。
+助け合い、教え合い、尊敬し合うチーム作りが好きで、影響と共感を与え合える仕事仲間にいつも感謝しています。
 
 私のミッションは、自分自身がクリエイターとしてどうありたいかを問いつつ、主義と主体性を持って美しさを求めて、歴史を紡いでいくようにものづくりすることです。
-
 
 ## スキルセット
 
@@ -65,7 +64,7 @@
 * Next
 * Storybook
 * jest
-* Firebase 
+* Firebase
 * PWA
 * gsap
 * Three.js
@@ -102,12 +101,12 @@
 
 ### PHP (CMS)
 
-* Wordpress
+* WordPress
 * SNS API
 
 ### Other tools
 
-* MacOS
+* Mac
 * Git
 * Docker
 * WebStorm
@@ -130,24 +129,44 @@
 
 デザイナー、エンジニアとしてのキャリア経歴です。
 
+### 現職の職務内容
+
+#### Hands-on Engineering
+
+* トレンドの JavaScript フレームワークを理解し、要件に合わせて選定、実装し、その技術をチームに共有する
+* アクセシビリティや SEO を考慮し、最新の HTML / CSS の仕様や JavaScript 関連の API  について熟知し、マークアップを行う
+* WebGL コーディングでブラウザ上での 3D 表現やポストプロセッシングエフェクトを駆使し、エモーショナルなビジュアルを実装する
+* SPA / SSR / PWA / TypeScript に精通し、モダン Web アプリケーションを構築するためのノウハウを常にアップデートしつつ開発、そしてそれを効率よく高速に開発するための開発環境を整備する
+* ブランドやコンテンツのコンセプトを理解し、アーティスティックなインタラクションをデザインし、実装する
+* コンセプトメイキングやクリエイティブディレクションの段階から参加し、プロデューサーやアートディレクターが想像しにくい、インタラクティブな要素やエンジニアリングドリブンで実現するリッチな UX を提案し、実装する
+* インタラクティブなプロトタイプを実装し、技術ナレッジとしてチーム共有する
+* チームのエヴァンジェリストとして、多数のカンファレンスや勉強会に参加するなど、新しい技術トレンドについて逐次キャッチアップし、そのナレッジをチームに共有して啓蒙し、導入支援として、環境構築、テンプレートの開発や、成果物のコードレビューなどのサポートを行う
+* WEB サイトパフォーマンスを熟知し、パフォーマンスバジェットを選定、ページスピード UX を監視、改善案となる施策を提案し、必要な技術や概念について共有し、実装する
+*Web direction / vendor control*
+* エンジニアドリブンなディレクションが必要な場合や、複数人開発の大型案件で、エンジニアのリソースと工数管理、外注先の選定、ドキュメントの整備や開発環境構築を行い、成果物全体のクリエイティブとパフォーマンスを担保するため、コードレビューや技術支援を行う
+
+### Web direction / vendor control
+
+* エンジニアドリブンなディレクションが必要な場合や、複数人開発の大型案件で、エンジニアのリソースと工数管理、外注先の選定、ドキュメントの整備や開発環境構築を行い、成果物全体のクリエイティブとパフォーマンスを担保するため、コードレビューや技術支援を行う
+
 ### Condé Nast Japan (2018_) 現職
 
-フロントエンドエンジニアとして、 月間1億5000万PVの大規模メディアの保守、  
+フロントエンドエンジニアとして、月間1億5000万PVの大規模メディアの保守、  
 ブランドとのタイアップ案件での3Dビジュアル実装やインタラクティブなコンテンツを担当。  
 チーム内にエッジな技術の啓蒙やフロントエンド動向のキュレーションをしています。  
 Nuxt などでの SPA で高速なフロントエンド全般の構築を主体としながら、  
 クリエイティブディレクションやインタラクションデザインから、  
 ブランドにも深く主体的に関わるエンジニアとして活動しています。
 
-* https://wired.jp/
-* https://wired.jp/vol39-the-world-in-2021/
-* https://wired.jp/vol35-deep-tech-for-the-earth/
-* https://wired.jp/vol34-narrative-and-deployment/
-* https://wired.jp/vol33-mirror-world/
-* https://wired.jp/vol32-digital-well-being/
-* https://www.vogue.co.jp/anniversary/20th/
-* https://www.gqjapan.jp/moty/2018/
-* https://www.gqjapan.jp/special/holidaygift/2020/
+* <https://wired.jp/>
+* <https://wired.jp/vol39-the-world-in-2021/>
+* <https://wired.jp/vol35-deep-tech-for-the-earth/>
+* <https://wired.jp/vol34-narrative-and-deployment/>
+* <https://wired.jp/vol33-mirror-world/>
+* <https://wired.jp/vol32-digital-well-being/>
+* <https://www.vogue.co.jp/anniversary/20th/>
+* <https://www.gqjapan.jp/moty/2018/>
+* <https://www.gqjapan.jp/special/holidaygift/2020/>
 
 ### grandstar, inc. (2017_)
 
@@ -157,20 +176,20 @@ UIデザイナー兼フロントエンドエンジニア、CBOとして入社。
 受託案件のフロントエンドエンジニアリングにも携わりながら、  
 海外チームのリソース管理やコーディネートをしています。
 
-* https://grandstar.jp/
-* http://movie.star-ch.jp/
-* http://www.bscycle.co.jp/items/family/bikke/
-* http://www.minocraft.co.jp/simulator/mino
-* https://www2.jctv.co.jp/cnnj/
-* https://www.gracecontinental.com/bespoke/2018/
-* http://www.senbokuhome.co.jp/lp/gotex/
+* <https://grandstar.jp/>
+* <http://movie.star-ch.jp/>
+* <http://www.bscycle.co.jp/items/family/bikke/>
+* <http://www.minocraft.co.jp/simulator/mino>
+* <https://www2.jctv.co.jp/cnnj/>
+* <https://www.gracecontinental.com/bespoke/2018/>
+* <http://www.senbokuhome.co.jp/lp/gotex/>
 
 ### Re:vite, inc. (2015_17)
 
 フロントエンドのチーフを務め、  
 メンバーの教育やガイドラインの作成に注力しました。  
 複雑なシステム要件を前提とするマークアップが多かったので、  
-拡張性が高く開発者が変わっても保守しやすい、  
+拡張性が高く、開発者が変わっても保守しやすい、  
 CSS設計／HTML構成／コーディング規約の作成などが身につきました。  
 このことで、工数の削減や追加機能の構築におおきく貢献しました。
 
@@ -178,8 +197,8 @@ CSS設計／HTML構成／コーディング規約の作成などが身につき�
 タスクランナーの最適化や、コードレビューを通したコミュニケーションで、  
 チーム全体でアウトプットの品質を高めました。
 
-* http://aifulrun.jp/run-jyoshi/
-* https://www.vetswan.com/
+* <http://aifulrun.jp/run-jyoshi/>
+* <https://www.vetswan.com/>
 
 ### デザイン請負/フリーランス (2011_)
 
@@ -188,8 +207,8 @@ CSS設計／HTML構成／コーディング規約の作成などが身につき�
 クライアントからアート性や独自性のあるものを求められていたので、  
 その方向性に深い理解を得るために、念密なヒアリングを重視しました。
 
-* https://8180.co.jp/
-* https://okiniirinoao.net/
+* <https://8180.co.jp/>
+* <https://okiniirinoao.net/>
 
 ## コメント
 
@@ -202,7 +221,7 @@ CSS設計／HTML構成／コーディング規約の作成などが身につき�
 
 私のエンジニアリングでは、  
 魅力を自由に引き出すのに必要となる土台を固めるための、  
-堅牢で美しいソースを生成することができます。  
+堅牢で美しいソースを生成できます。  
 そこに新しいウェブの仕様や世の中のトレンドを、  
 いちはやくキャッチアップして擦り合せることで、  
 UI/UXをより豊かなものにします。  
@@ -240,7 +259,6 @@ JavaScriptのファンタジックなアート表現を研究しています。
 * 通販やギャラリーでの委託販売
 * 展示会やカフェの什器のデザインと製作
 
-
 ## 資格
 
 * 日本漢字能力検定 2級
@@ -263,10 +281,3 @@ The Lord of the Rings / shuntaro tanikawa / shigesato itoi / manabu mizuno / hik
 ### 座右の銘
 
 「いつでも初心者」
-
-
-
-
-
-
-
