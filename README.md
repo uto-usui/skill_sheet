@@ -14,6 +14,7 @@
 * [note](https://note.mu/okiniirinoao)
 * [pinterest](https://jp.pinterest.com/okiniirinoao/)
 * [github](https://github.com/uto-usui/)
+* [Zenn](https://zenn.dev/uto_ao)
 
 ## 目次
 
