@@ -178,7 +178,7 @@ UIデザイナー兼フロントエンドエンジニア、CBOとして入社。
 
 * <https://grandstar.jp/>
 * <http://movie.star-ch.jp/>
-* <http://www.bscycle.co.jp/items/family/bikke/>
+* <https://www.bscycle.co.jp/items/e-bicycle/bikke/>
 * <http://www.minocraft.co.jp/simulator/mino>
 * <https://www2.jctv.co.jp/cnnj/>
 * <https://www.gracecontinental.com/bespoke/2018/>
