@@ -7,14 +7,14 @@
 
 ## コンタクト
 
-* [weblog](https://webmanab-html.com/)
-* [instagram](https://www.instagram.com/uto_ao/)
 * [twitter](https://twitter.com/uto_ao)
-* [Qiita](https://qiita.com/uto-usui)
-* [note](https://note.mu/okiniirinoao)
-* [pinterest](https://jp.pinterest.com/okiniirinoao/)
+* [instagram](https://www.instagram.com/uto_ao/)
+* [weblog](https://webmanab-html.com/)
 * [github](https://github.com/uto-usui/)
 * [Zenn](https://zenn.dev/uto_ao)
+* [note](https://note.mu/okiniirinoao)
+* [Qiita](https://qiita.com/uto-usui))
+* [pinterest](https://jp.pinterest.com/okiniirinoao/)
 
 ## 目次
 
@@ -30,29 +30,17 @@
 
 私はブランディングエンジニアです。
 
-私が得意なことは、Nuxt / Next x TypeScript でのハイパフォーマンスな SPA / SSG サイト構築、セマンティックなコーディングと堅牢なCSS設計、大規模メディアの運用、WebGLでのラグジュアリーなビジュアル表現、ビジネスとブランドのストーリーを解釈した UI / UX 考察などが得意です。
-
-新しい技術と普遍的な概念を磨いてアウトプットを強くしていく日々です。
+私が得意なことは、Nuxt / Next x TypeScript でのハイパフォーマンスな SPA / SSG サイト構築、デザインシステムを反映したコンポーネント群の構築、セマンティックなコーディングと堅牢なCSS設計、大規模メディアの運用、WebGLでのラグジュアリーなビジュアル表現、ビジネスとブランドのストーリーを解釈した UI / UX 考察などです。
 
 現職は、月間1億5000万PVの大規模メディアの保守、ブランドとのタイアップ案件での3Dビジュアル実装やインタラクティブなコンテンツを担当。チーム内にエッジな技術の啓蒙やフロントエンド動向のキュレーションをしています。
 
-入社後、2018年期の MVP を獲得し、その後新設された Quartely Champion の初回に選出されました。2019年の WIRED 復刊に合わせた雑誌連動 WEB 特集のcreative direction と frontend を専任、VOGUE 20th anniversary special site の develop management と frontend 全般を担当しました。2020 年には WIRED.jp のリニューアルの develop management と frontend 全般を担当しました。
-
-助け合い、教え合い、尊敬し合うチーム作りが好きで、影響と共感を与え合える仕事仲間にいつも感謝しています。
+入社後、2018年期の MVP を獲得し、その後新設された Quarterly Champion の初回に選出されました。2019年の WIRED 復刊に合わせた雑誌連動 WEB 特集のcreative direction と frontend を専任、VOGUE 20th anniversary special site の develop management と frontend 全般を担当しました。2020 年には WIRED.jp のリニューアルの develop management と frontend 全般を担当しました。
 
 私のミッションは、自分自身がクリエイターとしてどうありたいかを問いつつ、主義と主体性を持って美しさを求めて、歴史を紡いでいくようにものづくりすることです。
 
 ## スキルセット
 
 習熟度が実務レベルのスキルキーワードの一覧です。
-
-### Design
-
-* Sketch
-* Figma
-* Photoshop
-* Illustrator
-* XD
 
 ### JavaScript
 
@@ -100,6 +88,14 @@
 * semantic markup
 * accessibility
 
+### Design
+
+* Sketch
+* Figma
+* Photoshop
+* Illustrator
+* XD
+
 ### PHP (CMS)
 
 * WordPress
@@ -123,7 +119,6 @@
 * Nuxt
 * React
 * TypeScript
-* SCSS >>> CSS(FLOCSS)
 * Docker
 
 ## 経歴
@@ -134,19 +129,18 @@
 
 #### Hands-on Engineering
 
+* エンジニアリングとデザイン
 * トレンドの JavaScript フレームワークを理解し、要件に合わせて選定、実装し、その技術をチームに共有する
+* ブランドやコンテンツのコンセプトを理解し、アーティスティックなインタラクションをデザインし、実装する
 * アクセシビリティや SEO を考慮し、最新の HTML / CSS の仕様や JavaScript 関連の API  について熟知し、マークアップを行う
 * WebGL コーディングでブラウザ上での 3D 表現やポストプロセッシングエフェクトを駆使し、エモーショナルなビジュアルを実装する
 * SPA / SSR / PWA / TypeScript に精通し、モダン Web アプリケーションを構築するためのノウハウを常にアップデートしつつ開発、そしてそれを効率よく高速に開発するための開発環境を整備する
-* ブランドやコンテンツのコンセプトを理解し、アーティスティックなインタラクションをデザインし、実装する
 * コンセプトメイキングやクリエイティブディレクションの段階から参加し、プロデューサーやアートディレクターが想像しにくい、インタラクティブな要素やエンジニアリングドリブンで実現するリッチな UX を提案し、実装する
-* インタラクティブなプロトタイプを実装し、技術ナレッジとしてチーム共有する
+* インタラクティブなプロトタイプを実装し、技術ナレッジとしてチームに共有する
 * チームのエヴァンジェリストとして、多数のカンファレンスや勉強会に参加するなど、新しい技術トレンドについて逐次キャッチアップし、そのナレッジをチームに共有して啓蒙し、導入支援として、環境構築、テンプレートの開発や、成果物のコードレビューなどのサポートを行う
 * WEB サイトパフォーマンスを熟知し、パフォーマンスバジェットを選定、ページスピード UX を監視、改善案となる施策を提案し、必要な技術や概念について共有し、実装する
-
-### Web direction / vendor control
-
 * エンジニアドリブンなディレクションが必要な場合や、複数人開発の大型案件で、エンジニアのリソースと工数管理、外注先の選定、ドキュメントの整備や開発環境構築を行い、成果物全体のクリエイティブとパフォーマンスを担保するため、コードレビューや技術支援を行う
+* ローカル（日本）で行った先進的な試作や案件についてグローバルに共有する
 
 ### Condé Nast Japan (2018_) 現職
 
