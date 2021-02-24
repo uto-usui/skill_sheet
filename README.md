@@ -114,7 +114,7 @@
 * Protools
 * Logic
 
-### 主な開発ツール
+### 主な開発セットリスト
 
 * Nuxt
 * React
