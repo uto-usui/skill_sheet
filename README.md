@@ -72,11 +72,12 @@
 * Sass
 * SCSS
 * Stylus
-* custom properties
-* Responsive (Mobile First)
+* PostCSS
+* Custom properties
+* Responsive (Mobile First | fluid layout)
 * CSS architecture
-* style guide
-* tailwindcss
+* Style guide
+* Tailwind CSS
 * Bootstrap
 * Bulma
 
@@ -108,6 +109,11 @@
 * Docker
 * WebStorm
 * Vercel / Netlify
+* Jira / ClickUp / redmine
+* Slack
+* 8x8
+* Zoom
+* Notion
 
 ### Sound
 
